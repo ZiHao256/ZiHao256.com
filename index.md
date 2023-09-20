@@ -1,14 +1,12 @@
-# Zihao Ma
+# Zihao(Zahi) Ma
+[Home](https://zihao256.github.io/ZiHao256.com)  [Blog](https://zihao256.github.io)  [About](https://zihao256.github.io/ZiHao256.com/aboutme)  [CV](https://zihao256.github.io/ZiHao256.com/cv.pdf)
 
-**Address**: No.11 Clove College(丁香11号书院), 266 Xinglong Section of Xifeng Road, Xi'an, ShaanXi, P.R.China.
+# Hi, I'm Zahi!
+Postgraduate @ XDU
+- [About Me](https://zihao256.github.io/ZiHao256.com/aboutme)
+- [Curriculum Vitae](https://zihao256.github.io/ZiHao256.com/cv.pdf)
+- [Blog](https://zihao256.github.io)
 
-* Email-1: zihao626@gmail.com
-* Email-2: 2638779206@qq.com
-* [ZiHao's Blog](https://zihao256.github.io/)
-
-## Awards
-
-## My Grade
-
-## Student Work
-
+Find me on:
+- Email:`zihao626 at gmail dot com`
+- [Github](https://github.com/ZiHao256)
