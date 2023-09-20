@@ -6,4 +6,4 @@ I am currently a postgraduate student in Computer Science and Technology at [Xid
 
 I can be referred to as Zahi Ma and Zihao Ma.
 
-I have been focusing on learning system software, especially database systems, during my undergraduate and graduate study.
+I have been focusing on learning system software, especially database systems, during my undergraduate and graduate study. I am learning CMU15-445(2023FALL) to improve my skills of C++ and database system.
