@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zihao256.github.io/ZiHao256.com/sitemap.xml
