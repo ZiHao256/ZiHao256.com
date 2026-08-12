@@ -6,7 +6,7 @@
 - [CV](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
 
 # Hi, I'm Zahi!
-First-year master student @ XDU
+Third-year PhD student @ XDU
 
 Find me on:
 - Email:`zihao626 at gmail dot com`
