@@ -11,6 +11,7 @@ on:
       - "_news/**"
       - "_pages/**"
       - "_projects/**"
+      - "_sass/**"
       - "**/*.bib"
       - "**/*.html"
       - "**/*.js"
@@ -34,6 +35,7 @@ on:
       - "_news/**"
       - "_pages/**"
       - "_projects/**"
+      - "_sass/**"
       - "**/*.bib"
       - "**/*.html"
       - "**/*.js"
@@ -83,8 +85,6 @@ jobs:
         run: npm ci
       - name: Install Python deps
         run: pip3 install --requirement requirements.txt
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Build site
         run: JEKYLL_ENV=production bundle exec jekyll build
       - name: Purge unused CSS
