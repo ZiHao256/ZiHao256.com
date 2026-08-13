@@ -26,6 +26,4 @@ latest_posts:
 
 I am a third-year PhD student in Computer Science and Technology at [Xidian University](https://en.xidian.edu.cn/). I received my bachelor's degree in Software Engineering from Xidian University.
 
-You can also refer to me as Zahi Ma.
-
-My work focuses on system software, especially database systems. My recent research explores informative alternative query-plan selection for database education.
+My work focuses on system software, especially database systems.
