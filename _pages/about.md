@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Third-year PhD student in Computer Science and Technology at <a href="https://en.xidian.edu.cn/">Xidian University</a>.
 
 profile:
   align: right
