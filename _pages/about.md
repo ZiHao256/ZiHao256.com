@@ -23,6 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a third-year PhD student in Computer Science and Technology at [Xidian University](https://en.xidian.edu.cn/). I received my bachelor's degree in Software Engineering from Xidian University.
+I am a third-year PhD student in Computer Science and Technology at [Xidian University](https://en.xidian.edu.cn/). I am advised by [Prof. Hui Li](https://web.xidian.edu.cn/hli/) and [Prof. Xiangyang Ji](https://www.au.tsinghua.edu.cn/info/1165/3179.htm). I received my bachelor's degree in Software Engineering from Xidian University.
 
 My work focuses on system software, especially database systems.
